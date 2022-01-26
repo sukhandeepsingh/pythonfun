@@ -1,3 +1,7 @@
+#draws infinity smybol using circles.
+#See https://i.imgur.com/MANzjoc.png
+
+
 from turtle import *
 bgcolor('black')
 color('red')
